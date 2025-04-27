@@ -1,16 +1,28 @@
-## Hi there 👋
+# 💚 Hey, eu sou o P3trico!
 
-<!--
-**P3trico/P3trico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Informática | 💻 Amante de tecnologia e programação  
+🌱 Atualmente aprendendo **HTML**, **Python** e **PHP**  
+🚀 Sempre buscando evoluir e criar coisas incríveis!
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias que estou usando:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML5
+- Python
+- PHP
+- CSS3
+- MySQL
+
+## 📈 Minhas estatísticas:
+
+![P3trico's GitHub Stats](https://github-readme-stats.vercel.app/api?username=P3trico&show_icons=true&theme=green&hide=prs)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=P3trico&layout=compact&theme=green)
+
+## ✨ Um pouco sobre mim:
+
+> "Cada linha de código é uma semente que planto para o futuro. 🌱"
+
+---
+
+### 📫 Como me encontrar:
+- E-mail: (pedrodgusmao@gmail.com)
